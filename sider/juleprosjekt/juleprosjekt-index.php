@@ -19,7 +19,7 @@
                 Gledelig jul til deg og velkommen til denne nettsiden. Her kan du leke deg, mens du gjør deg klar
                 for jul. Noe av det du kan gjøre er å lage din egen ønskeliste eller sende et brev til selveste nissen.
             </p>
-            <a href="../index.php">Tilbake til hoved siden.</a>
+            <a href="../../index.php">Tilbake til hoved siden.</a>
         </div>
 
     </body>

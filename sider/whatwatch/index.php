@@ -13,8 +13,15 @@
         Dette er en nettside hvor man kan se hvilke serier jeg (Ole Magnus),
         har sett. Man vil også ha mulighet til å se hvilken terningkast jeg har 
         gitt serien. 
+        
         <br>
         <br>
+
+        Nettsiden funker ikke helt pga av at jeg ikke har tilgang til databsen lengre
+
+        <br>
+        <br>
+
         <a class="hovedside" href="../../index.php">Hovedside</a>
     </p>
 </body>
