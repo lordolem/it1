@@ -1,2 +1,2 @@
-# it1
-There is more. Will update when I find the folders.
+# IT1 - Projects from high school
+[View online](http://www.it1.omfj.no/)
