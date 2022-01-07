@@ -1,2 +1,2 @@
 # IT1 - Projects from high school
-[View online](http://www.it1.omfj.no/)
+[View online](http://it1.omfj.no/)
